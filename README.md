@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20JAEWOOSUN👋&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Failure%20is%20delay,%20but%20not%20defeat%20🔨&fontSize=36&animation=fadeIn&fontAlignY=36)
 
-- 🎓 **Undergraduate Student** who prepares to be a Developer
+- 🎓 **Undergraduate Student (major : Computer science)**
+- :
 - ⛺ **Boostcamper** of [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect Foundation
 - ✈ Explorer in various fields, such as **Web Full Development, Deep Learning, Data Analysis, etc.**
 - 😆 Fun fact: I really love **<img src="https://upload.wikimedia.org/wikipedia/en/b/be/Seal_of_Daejeon.svg" align="centeR" alt="Daejeon" width="18"/>Daejeon** even though I've **NEVER** lived in there
@@ -8,8 +9,7 @@
 
 ----
 
-<details markdown="1">
-<summary><strong>👩‍💻 Technologies & Tools</strong></summary>
+<strong>👩‍💻 Technical skills</strong>
 
 <br/>
 
@@ -32,10 +32,10 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-</details>
+----
 
-<details markdown="1">
-<summary><strong>:octocat: GitHub Stats</strong></summary>
+
+<strong>:octocat: GitHub Stats</strong>
 
 <br/>
 
@@ -43,5 +43,3 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=JAEWOOSUN&show_icons=true&theme=radical&count_private=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JAEWOOSUN&theme=radical&langs_count=4">
 </p>
-
-</details>
