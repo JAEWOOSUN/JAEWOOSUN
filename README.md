@@ -18,7 +18,7 @@
 
 ----
 <details>
-<summary><strong>👩‍💻 Technical skills</strong>
+<summary><strong>👩‍💻 Technical skills (click me!)</strong>
 
 <br>
 <br>
