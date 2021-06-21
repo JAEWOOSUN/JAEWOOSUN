@@ -55,7 +55,7 @@
 <p align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
-    <img src="https://user-images.githubusercontent.com/37205213/122739834-5369e480-d2be-11eb-8402-880dbb82ad2a.png" width="10%"/>
+    <img src="https://user-images.githubusercontent.com/37205213/122739834-5369e480-d2be-11eb-8402-880dbb82ad2a.png" width="11%"/>
     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
     <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
