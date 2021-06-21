@@ -3,6 +3,7 @@
 - 🎓 **Education : Undergraduate Student (Major : Computer science)**
 - :balloon: &nbsp;**Interest : Web Development, NLP, AI Serving etc.**
 - :eyes: **Activites : Boostcamper of [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect**
+- :notebook_with_decorative_cover: **ML/DL Portfolio :  https://dororo21.tistory.com/162**
 
 ----
 
