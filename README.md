@@ -6,15 +6,27 @@
 
 ----
 
-<strong>👩‍💻 Technical skills</strong>
+
+<strong>:octocat: GitHub Stats</strong>
 
 <br/>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JAEWOOSUN&show_icons=true&theme=radical&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JAEWOOSUN&theme=radical&langs_count=4">
+</p>
 
-&nbsp;&nbsp;<strong>Language</strong>
+----
+<details>
+<summary><strong>👩‍💻 Technical skills</strong>
+
+<br>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Language</strong>
 <br>
 <p align="left">
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -25,57 +37,40 @@
 
 </p>
 <br>
-&nbsp;&nbsp;<strong>Frameworks and libraries - Web</strong>
+</summary>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Frameworks and libraries - Web</strong>
 <br>
 <br>
 <p align="left">
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-    <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-    <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
+    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 <br>
-&nbsp;&nbsp;<strong>Frameworks and libraries - ML/DL</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>Frameworks and libraries - ML/DL</strong>
 <br>
 <br>
 <p align="left">
-    &nbsp;&nbsp;
-    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-    <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-    <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img src="https://user-images.githubusercontent.com/37205213/122739834-5369e480-d2be-11eb-8402-880dbb82ad2a.png" width="10%"/>
     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>etc.</strong>
+<br>
+<br>
+<p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 </p>
-    
-    
-----
-
-
-<strong>:octocat: GitHub Stats</strong>
-
-<br/>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JAEWOOSUN&show_icons=true&theme=radical&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JAEWOOSUN&theme=radical&langs_count=4">
-</p>
+</details>
