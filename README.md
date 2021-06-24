@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Failure%20is%20delay,%20but%20not%20defeat%20🔨&fontSize=36&animation=fadeIn&fontAlignY=36)
 
 - 🎓 **Education : Undergraduate Student (Major : Computer science)**
-- :balloon: &nbsp;**Interest : Web Development, NLP, AI Serving etc.**
+- :balloon: **Interest : Web Development, NLP, AI Serving etc.**
 - :eyes: **Activites : Boostcamper of [Boostcamp AI Tech](https://boostcamp.connect.or.kr/program.html) by Naver Connect**
 - :notebook_with_decorative_cover: **ML/DL Portfolio :  https://dororo21.tistory.com/162**
 
